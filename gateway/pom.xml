@@ -11,5 +11,12 @@
 
     <artifactId>gateway</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.lsz</groupId>
+            <artifactId>service</artifactId>
+        </dependency>
+
+    </dependencies>
 
 </project>

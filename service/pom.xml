@@ -11,5 +11,12 @@
 
     <artifactId>service</artifactId>
 
+    <dependencies>
+        <dependency>
+            <groupId>com.lsz</groupId>
+            <artifactId>common</artifactId>
+        </dependency>
+
+    </dependencies>
 
 </project>
