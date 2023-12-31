@@ -12,7 +12,7 @@ import org.springframework.web.bind.annotation.RestController;
  * @Version 1.0.0
  **/
 @RestController
-@RequestMapping("test")
+@RequestMapping("spike-web")
 public class TestController {
 
     @GetMapping("/test")
